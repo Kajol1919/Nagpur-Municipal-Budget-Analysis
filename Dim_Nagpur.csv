@@ -1,0 +1,913 @@
+﻿Type of Record,Dept code,Major Code,Detailed Code,Function Description,2024-25 BE,2024-25 RE,2025-26 BE
+Income,00,140,A10200420601,Fines collected as per municipal regulations / fines recovered by the administration,0.00,12.51,100.00
+Income,00,130,A10600820702,Annual rent collected on land and properties,116.82,216.42,250.00
+Income,00,140,A10600821403,Licence fee / permit fee,77.14,22.28,250.00
+Income,00,140,A10600820104,Fee received from non-agricultural assessment by the government,77.14,5.41,250.00
+Income,00,140,A10600820105,"Fees charged for regularization, transfer, subdivision and amalgamation of plots allotted on leasehold basis",77.14,21.95,250.00
+Income,00,140,A10700120106,Copying fee (Central Record),77.14,6.18,250.00
+Income,00,140,A14902620906,Fine and processing fee recovered for unauthorized dumping and transportation,77.14,,250.00
+Income,00,150,A10700121207,Fee for sale of application forms,77.14,1.78,250.00
+Income,00,160,A10200431501,Government grant received from the State Government based on 15% and 75% of agricultural assessment of land revenue,77.14,0.04,250.00
+Income,00,160,A10200432202,Entertainment tax compensation grant,77.14,0.00,250.00
+Income,00,160,A10400133103,Grant towards census Expenses,77.14,0.00,250.00
+Income,00,160,A10600831504,Zonal grant,77.14,0.50,250.00
+Income,00,160,A10200430205,Other government grant / innovative scheme grant,1186.51,3273.58,250.00
+Income,00,160,A10200430206,Goods and Services Tax (GST) compensation / assistance grant,140664.00,151920.00,250.00
+Income,00,160,A10200430207,Hutatma Smarak grant,,0.04,250.00
+Income,00,180,A10100140801,Miscellaneous income,0.00,0.06,0.01
+Income,00,171,A10200440102,Interest earned on amounts invested with banks,1558.42,7188.00,7200.00
+Income,00,180,A10200440803,Miscellaneous income,390.24,2490.04,300.00
+Income,00,180,A13901240804,"Income generated from waste-processing by-product sales and carbon credits, received as royalty",,0.00,0.01
+Income,00,140,A10600840804,Other fees,232.72,280.32,250.00
+Income,00,150,A10700140805,Miscellaneous income (sale of old / unusable materials and scrap),0.00,0.00,0.01
+Income,10,140,A11101821001,Development fund / improvement charges (peripheral development Expenses),9.68,0.76,0.00
+Income,10,140,A11101820602,Compounding fee,471.44,454.75,400.00
+Income,10,140,A11101820103,Building plan scrutiny fee,26.60,97.30,200.00
+Income,10,140,A11101821504,Building material stacking charges,55.53,214.88,350.00
+Income,10,140,A11101820205,Building plan registration fee,2.90,1.07,100.00
+Income,10,140,A11101820906,Building permit fee,0.01,0.00,0.00
+Income,10,140,A11101820107,Periodic inspection charges,0.00,0.00,0.01
+Income,10,140,A11101821906,Building development charges under Section 124-B of the Maharashtra Regional and Town Planning Act,4546.89,10767.92,9000.00
+Income,10,140,A11101821907,Land development charges under Section 124-B of the Maharashtra Regional and Town Planning Act,64.73,0.00,200.00
+Income,10,140,A11101821908,Additional building development charges under Section 124 of the Act (Additional FSI under 124-J),,,9000.00
+Income,10,140,A11101822008,"Premium charges for areas excluded from the FSI index, such as staircases, passages, lobbies and balconies closed / regularized",2057.46,9304.81,13500.00
+Income,10,140,A11101822210,Heritage conservation charges,96.52,133.79,300.00
+Income,10,140,A11101822311,Development rights premium / loading premium and Transferable Development Rights (TDR) related charges,950.07,356.23,700.00
+Income,10,180,A11101840801,Miscellaneous income,572.14,377.82,4000.00
+Income,10,180,A11200940802,Income recovered from removal of encroachments and other income recovery,23.99,132.09,25.00
+Income,10,160,A11101820903,Urban transport fund (TOD) received under Nagpur Metro Rail projects,0.00,6957.19,11500.00
+Income,20,140,A12001421601,Income received from road cutting,1174.24,1211.11,1000.00
+Income,20,150,A12001321202,Income from sale of tender application forms,82.98,145.21,100.00
+Income,20,140,A12301720503,Reimbursement received for shifting electrical poles and alternative arrangements due to traffic obstruction; reimbursement from MSEDCL and Metro Rail; contribution for Ring Road development works,0.00,0.00,100.00
+Income,20,140,A12600321704,Fire protection premium / additional fee received from high-rise buildings,175.10,1400.01,2500.00
+Income,20,140,A12600321705,High-rise building fund income,0.00,0.00,
+Income,20,120,A12701521106,Royalty / ownership income received from city bus service,0.00,0.00,0.01
+Income,20,140,A12701520513,Parking charges,0.00,439.37,50.00
+Income,20,130,A12800720707,Shop rent,1689.36,1072.75,1225.00
+Income,20,140,A12800720708,Service tax / GST-related charges collected from shops and commercial complexes,0.00,179.73,225.00
+Income,20,140,A12800720109,Income from fees collected from vegetable market / cycle stand and other miscellaneous income,696.20,415.99,40.00
+Income,20,140,A12800720110,Income from hawkers,0.00,0.02,1.00
+Income,20,140,A12701321106,Royalty income,169.21,0.00,1.00
+Income,20,130,A12801321811,Income from residential and commercial complexes and Orange City Street projects on a build-operate / transfer basis,20.00,450.00,9600.00
+Income,20,130,A12901220712,House rent recovered from sanitation workers,0.00,0.00,0.42
+Income,20,160,A12000432501,Grant for road repair and construction,0.00,0.00,150.00
+Income,20,180,A12001440801,Miscellaneous income (sale of obsolete materials),16.33,2.48,50.00
+Income,20,180,A12301740802,Miscellaneous income (sale of obsolete materials),234.45,202.16,50.00
+Income,20,180,A12600340803,Miscellaneous income (well cleaning / related receipts),132.99,305.90,99.00
+Income,20,180,A12600340804,Miscellaneous income for providing fire-fighting services outside municipal limits,7.79,23.85,34.44
+Income,30,140,A13201220201,Income from birth and death certificates,141.75,131.74,100.00
+Income,30,180,A13401220502,"Income from X-ray, ECG, physiotherapy and other diagnostic services",94.49,19.98,20.00
+Income,30,140,A13401220203,Hospital registration fee,469.70,250.39,75.00
+Income,30,140,A13401120204,Indira Gandhi Hospital registration fee,5.14,4.16,10.00
+Income,30,180,A13501220205,Income from crematorium and other income,149.75,145.68,200.00
+Income,30,140,A13601221406,Food establishment / food article licence fee,0.05,145.68,0.01
+Income,30,140,A11301221407,Business licence fee,89.20,145.68,3.00
+Income,30,140,A13601221408,Fees collected according to classification / grading of hotels,135.75,145.68,60.00
+Income,30,160,A13101232701,Grant for malaria eradication,0.00,145.68,100.00
+Income,30,160,A13101232802,Grant for filariasis (F-type disease) eradication,0.00,145.68,100.00
+Income,30,160,A13601131203,Pulse Polio eradication and other government grants,0.00,145.68,0.01
+Income,40,140,A14701020501,Cattle fodder / feed Expenses recovery,0.00,145.68,1.00
+Income,40,150,A14701020802,Income from sale of animals,0.00,145.68,0.01
+Income,40,140,A14701020603,Income from fines relating to Kondwada / cattle pound,4.21,145.68,6.00
+Income,40,140,A14601020204,Animal registration fee,1.62,145.68,4.00
+Income,40,140,A14801220205,Slaughterhouse registration fee,0.02,145.68,1.00
+Income,40,140,A14001240801,Miscellaneous income – agreement fee,467.71,473.81,600.00
+Income,40,180,A14701040802,Miscellaneous income,2.77,,30.00
+Income,40,180,A13901240803,Income from Thermal Power Station / Bhandewadi projects and STP receipts,4537.35,6931.57,6315.00
+Income,50,140,A15600220202,Library membership registration fee,7.76,10.92,15.00
+Income,50,160,A15202030601,Grant for primary schools,5441.21,4732.66,6897.00
+Income,50,160,A15600231403,Government grant for Kasturba Library,1.63,1.81,4.60
+Income,50,180,A15202040801,Miscellaneous income from primary schools,3.19,2.37,6.00
+Income,50,180,A15302040802,Miscellaneous income from secondary schools,0.00,0.00,0.01
+Income,50,180,A15600240803,Miscellaneous income,0.21,7.37,0.40
+Income,60,140,A16001620203,Income generated from municipal gardens,1.39,0.00,11.90
+Income,60,180,A16001620904,"Miscellaneous income under the Tree Conservation Act, 1975",133.62,542.04,150.00
+Income,60,130,A16102220705,Income from sports grounds and complexes,9.43,13.88,50.00
+Income,60,130,A16102220706,Income from Kavi Varya Suresh Bhatt auditorium,164.67,54.01,200.00
+Income,70,150,A18602140802,"Sale of obsolete vehicle machinery, spare parts, oil drums and other materials",5.86,100.40,250.00
+Income,70,180,A18602140803,"Miscellaneous income (applications and other fees, etc.)",3.47,5.63,3.00
+Income,80,110,A19000610201,Arrears of general tax,185.85,6491.42,8401.12
+Income,80,110,A19000610202,Current general tax,22424.16,6973.42,8974.85
+Income,80,110,A19000610703,Arrears of fire tax,10.33,244.22,214.89
+Income,80,110,A19000610704,Current fire tax,7.75,252.95,356.74
+Income,80,110,A19000611105,Arrears of electricity tax,9.59,0.00,0.01
+Income,80,110,A19000611106,Current electricity tax,7.79,0.00,0.00
+Income,80,110,A19000611407,Arrears of road / street tax,16.88,227.67,175.41
+Income,80,110,A19000611408,Current road / street tax,6.40,250.24,342.31
+Income,80,110,A19000611509,Arrears of municipal education cess,9.52,229.84,184.96
+Income,80,110,A19000611510,Current municipal education cess,7.66,250.48,347.26
+Income,80,110,A19000610311,Theatre tax,8.43,28.32,7.00
+Income,80,110,A19000611812,Arrears of tree cess,0.00,239.65,206.30
+Income,80,110,A19000611813,Current tree cess,0.00,252.82,361.46
+Income,80,110,A19100510114,Local Body Tax (LBT) arrears / pending income from LBT collection,421.50,157.36,100.00
+Income,80,140,A19000620101,Notice fee and warrant fee,13.77,157.36,51.66
+Income,80,140,A19000620102,Advertisement fee recovery,13.77,157.36,0.01
+Income,80,140,A19006220103,Fee for mutation of buildings and properties,13.77,157.36,371.96
+Income,80,140,A19200621304,Sky-sign licence fee,957.75,157.36,900.00
+Income,80,140,A19200621305,Land rent and other charges,39.32,157.36,491.00
+Income,80,140,A19200621306,Other fees,0.00,157.36,2.00
+Income,80,110,A19300430301,Profession tax grant / educational fee grant,6787.95,6235.24,7000.00
+Income,80,180,A19000640801,Miscellaneous income,116.00,2634.77,2104.67
+Income,10,140,A11101822109,Administrative fee charged for sewerage connection,35.31,21.82,100.00
+Income,30,140,A13801920411,Income from water charges according to meter readings,35655.12,23620.59,25000.00
+Income,30,180,A13801920412,Income from water supplied through tankers / miscellaneous water income,924.23,2.34,500.00
+Income,30,160,A13801933004,Grant income for the tap-water supply scheme,0.00,0.00,
+Income,30,160,A13801933006,Grant under the 15th Finance Commission / AMRUT-2 for Water and Solid Waste Management,,6753.52,0.01
+Income,30,160,A13801933007,Grant under the 15th Finance Commission,6557.76,0.00,3660.00
+Income,30,160,A13801933005,Grant for strengthening Ambazari Dam,0.00,0.00,0.01
+Income,30,180,A13901240801,Income from removal of chokages / miscellaneous income,1.50,9.11,7.00
+Income,60,160,A16201930101,Government grant for the PHE-related project / purpose specified,0.00,0.00,0.00
+Income,80,110,A19000610603,Arrears of sanitation tax,116.45,2647.04,2354.88
+Income,80,110,A19000610604,Current sanitation tax,105.30,2964.61,4103.95
+Income,80,110,A19000611005,Arrears of water tax,4.61,511.36,421.09
+Income,80,110,A19000611006,Current water tax,5.39,306.99,269.68
+Income,80,110,A19000611215,Outstanding sewerage benefit tax,10.22,232.83,188.80
+Income,80,110,A19000611216,Current sewerage benefit tax,7.70,252.90,353.36
+Income,80,110,A19000611317,Arrears of water benefit tax,10.20,233.13,188.80
+Income,80,110,A19000611318,Current water benefit tax,7.59,252.86,351.30
+Income,80,110,A19000610412,Solid-waste management tax,0.00,0.00,65.32
+Expenses,00,210,A20100110001,General Administration – Establishment Expenses,824.25,624.95,1000.00
+Expenses,00,210,A20100110002,General Administration – Establishment Expenses (Work-related),9.44,6.99,10.00
+Expenses,00,210,A20200410003,Accounts and Finance – Establishment Expenses,424.52,522.80,600.00
+Expenses,00,210,A20200410004,Pension Departmental Contribution,1674.46,2079.61,3000.00
+Expenses,00,210,A20200410005,Pension,29033.11,28267.35,39500.00
+Expenses,00,210,A20200410006,Arrears of Employee,0.00,119.27,0.00
+Expenses,00,210,A20200410007,Arrears for pay commission for for retired employee,0.00,0.00,40.00
+Expenses,00,210,A20600810008,Land and Estate – Establishment Expenses,81.78,72.17,95.00
+Expenses,00,210,A20002510009,Municipal Secretariat - Establishment Expenses,181.31,152.41,170.00
+Expenses,00,210,A20002511810,Municipal Secretariat – work-related temporary establishment Expenses,0.00,0.00,1.00
+Expenses,00,210,A20002522001,Allowance,0.29,0.00,10.00
+Expenses,00,210,A20002522102,Honorarium for Municipal Corporation members,4.10,0.00,150.00
+Expenses,00,210,A20002521703,Honorarium / allowance for Hon. Members,0.00,0.00,5.00
+Expenses,00,220,A20002521204,Travel Expenses,0.00,0.00,10.00
+Expenses,00,220,A20002521605,Annual subscription to the All India Mayors' Association,0.00,0.00,2.00
+Expenses,00,210,A20002522006,Hospitality allowance for the Hon. Mayor/Chairperson and Standing Committee – Municipal Corporation,0.00,0.00,5.00
+Expenses,00,210,A20002522207,Reimbursement of medical expenses (for elected representatives),0.33,0.00,100.00
+Expenses,00,220,A20100120308,Advertisement and publicity Expenses: (1) public awareness campaign – ₹15 lakh provision; (2) publicity of various Municipal Corporation activities – ₹15 lakh provision.,190.45,348.03,450.00
+Expenses,00,271,A20100122009,Miscellaneous Expenses,16.32,9.11,50.00
+Expenses,00,271,A20105122052,Zone No. 1 – Lakshminagar,0.37,3.03,20.00
+Expenses,00,271,A20110122002,Zone No. 2 – Dharampeth,1.94,4.97,20.00
+Expenses,00,271,A20115122052,Zone No. 3 – Hanumannagar,1.97,4.99,20.00
+Expenses,00,271,A20120122002,Zone No. 4 – Dhantoli,1.31,3.47,20.00
+Expenses,00,271,A20125122052,Zone No. 5 – Nehru Nagar,2.23,4.13,20.00
+Expenses,00,271,A20130122002,Zone No. 6 – Gandhibagh,1.98,1.78,20.00
+Expenses,00,271,A20135122052,Zone No. 7 – Satranjipura,1.23,4.79,20.00
+Expenses,00,271,A20140122002,Zone No. 8 – Lakadganj,1.68,4.93,20.00
+Expenses,00,271,A20145122052,Zone No. 9 – Ashinagar,0.48,4.19,20.00
+Expenses,00,271,A20150122002,Zone No. 10 – Mangalwari,0.85,3.86,20.00
+Expenses,00,220,A20100121312,Insurance Expenses and Expenses related to regional transport (RTO),46.92,76.51,150.00
+Expenses,00,220,A20100120213,Purchase of newspapers,1.20,1.09,5.00
+Expenses,00,220,A20100120214,"Writing materials, office printing and stationery Expenses",75.25,68.15,100.00
+Expenses,00,271,A20100122016,Hospitality allowance for the Municipal Commissioner / Chief Engineer / Additional Commissioner / Superintending Engineer / Deputy Commissioner,0.20,1.56,3.00
+Expenses,00,220,A20102520117,By-laws and other printing; letter pads and stationery for officers and elected representatives,1.50,1.74,10.00
+Expenses,00,220,A20100121218,Travel Expenses of officers and employees for official work,10.91,15.03,20.00
+Expenses,00,220,A20100122019,Hospitality and Welcome Expenses,0.00,0.00,0.00
+Expenses,00,210,A20102521720,Annual Budget Meeting Expenses,0.00,0.00,27.00
+Expenses,00,271,A20200422021,Office miscellaneous Expenses – GPF/NPS,27.19,28.85,50.00
+Expenses,00,240,A20200452022,Interest on Bank Loan,,,600.00
+Expenses,00,220,A20200452023,Adjustment of amounts between interest earned on provident-fund investments and interest paid/credited to subscribers,,,100.00
+Expenses,00,220,A20300422322,Improvement in accounting procedures,70.87,66.34,100.00
+Expenses,00,271,A20102522009,Miscellaneous Expenses,0.69,0.92,10.00
+Expenses,00,250,A20400122423,Election Expenses,8.05,4.34,2021.00
+Expenses,00,250,A20400122424,Election Expenses,0.00,0.00,0.00
+Expenses,00,220,A20500121425,Miscellaneous Litigation Expenses,37.85,70.50,150.00
+Expenses,00,220,A20600820226,"Plane-table survey, drawing materials, city survey plan copies, scanning of records and other expenses",40.11,47.94,200.00
+Expenses,00,271,A20600822527,Land Revenue / Cess,0.00,0.00,20.00
+Expenses,00,230,A20600830801,Fencing of Municipal Corporation-owned properties,1.64,9.14,500.00
+Expenses,00,260,A20200440701,Contribution to Nagpur Improvement Trust,0.00,0.00,0.01
+Expenses,00,260,A20200441703,Unpaid Expenses,983.42,848.60,1000.00
+Expenses,00,260,A20200441804,Construction (Committed Expenses),151.06,82.42,0.01
+Expenses,00,260,A20200422022,Urgent community works suggested by the Chief Minister’s Office,0.00,620.37,3000.00
+Expenses,10,210,A21001810001,City and Town Planning – Establishment Expenses,266.33,211.64,450.00
+Expenses,10,210,A21200910002,Enforcement – Establishment Expenses,105.91,69.58,183.00
+Expenses,10,230,A21001820201,Purchase of drawing materials and miscellaneous Expenses,0.85,1.17,15.00
+Expenses,10,250,A21001822602,Preparation of proposed development plan and implementation of development scheme,78.39,45.96,500.00
+Expenses,10,271,A21200922004,Miscellaneous Expenses,53.04,17.62,150.00
+Expenses,10,220,A22600322805,Plan and construction for city and departmental disaster management,1.08,0.00,200.00
+Expenses,10,230,A21200930801,Maintenance and repairs of the Enforcement Department and enforcement Expenses,0.00,1.30,13.53
+Expenses,10,230,A21201830802,Maintenance and repairs of the computerized Gunthawari system and enforcement Expenses,0.00,0.00,0.00
+Expenses,20,210,A22001310001,City Engineer’s Office – Establishment,1587.01,1248.50,2000.00
+Expenses,20,210,A22301710002,Electrical Department – Establishment Expenses,681.90,482.50,800.00
+Expenses,20,210,A22600310003,Fire Fighting,1387.32,1074.38,2500.00
+Expenses,20,210,A22702110004,Workshop Department – Establishment Expenses,334.33,185.57,250.00
+Expenses,20,210,A22702130130,Honorarium for vehicle drivers / mechanics engaged on contract basis,0.00,305.07,600.00
+Expenses,20,210,A22800730832,Development of markets on BOT basis,0.00,0.00,10.00
+Expenses,20,210,A22800710005,Market Department – Establishment Expenses,355.93,250.85,500.00
+Expenses,20,220,A22001320101,Administrative Expenses (tender application printing),1.12,0.26,6.00
+Expenses,20,220,A22301722002,Miscellaneous Expenses,0.05,0.51,10.00
+Expenses,20,220,A22301722003,Appointment of project consultants for various innovative projects,0.00,0.00,300.00
+Expenses,20,220,A22600320703,Purchase of uniforms and materials,110.97,66.58,150.00
+Expenses,20,271,A22600322004,Miscellaneous Expenses,20.12,35.89,50.00
+Expenses,20,220,A20100121805,Hiring of private vehicles,266.34,269.73,450.00
+Expenses,20,220,A22702122006,Office Expenses,6.01,13.25,35.00
+Expenses,20,220,A22801322807,"Expenses for preparing plans for Build, Operate and Transfer and other projects",0.00,0.00,800.00
+Expenses,20,230,A22001330801,Maintenance and repairs of A.R.V.Y./CRF and other major roads,270.39,445.07,1100.00
+Expenses,20,230,A22001330802,"Repairs of roads, bridges and other civic works, including concreting",1239.27,409.78,2000.00
+Expenses,20,230,A22001330803,"Road improvement programme under Pandit Deendayal Upadhyay scheme (road asphalting, maintenance and repairs)",1402.83,273.46,3500.00
+Expenses,20,230,A22001330804,Repair of cement-concrete roads in the city,10.49,0.00,0.00
+Expenses,20,230,A22001330805,Maintenance and repairs of potholes on city roads,489.12,466.77,3000.00
+Expenses,20,230,A22005130852,Zone No. 1 – Lakshminagar,3.45,7.15,20.00
+Expenses,20,230,A22010130802,Zone No. 2 – Dharampeth,2.91,7.72,20.00
+Expenses,20,230,A22015130852,Zone No. 3 – Hanumannagar,3.83,7.63,20.00
+Expenses,20,230,A22020130802,Zone No. 4 – Dhantoli,0.94,1.89,20.00
+Expenses,20,230,A22025130852,Zone No. 5 – Nehru Nagar,3.80,2.42,20.00
+Expenses,20,230,A22030130802,Zone No. 6 – Gandhibagh,1.93,7.70,20.00
+Expenses,20,230,A22035130852,Zone No. 7 – Satranjipura,1.21,7.45,20.00
+Expenses,20,230,A22040130802,Zone No. 8 – Lakadganj,3.88,7.55,20.00
+Expenses,20,230,A22045130852,Zone No. 9 – Ashinagar,3.72,4.93,20.00
+Expenses,20,230,A22050130802,Zone No. 10 – Mangalwari,3.75,7.92,20.00
+Expenses,20,230,A22001430808,Road asphalt surfacing by hot-mix process,767.01,83.66,0.00
+Expenses,20,230,A22001430809,Hot-mix plant maintenance and repairs,22.55,64.78,157.18
+Expenses,20,230,A22001430110,Purchase of fuel for the hot-mix plant,105.43,133.21,250.00
+Expenses,20,271,A22001332011,Miscellaneous Expenses,0.79,0.00,5.00
+Expenses,20,230,A22005130853,Zone No. 1 – Lakshminagar,6.57,19.98,50.00
+Expenses,20,230,A22010130803,Zone No. 2 – Dharampeth,9.54,0.13,50.00
+Expenses,20,230,A22015130853,Zone No. 3 – Hanumannagar,15.16,19.36,50.00
+Expenses,20,230,A22020130803,Zone No. 4 – Dhantoli,8.67,11.72,50.00
+Expenses,20,230,A22025130853,Zone No. 5 – Nehru Nagar,13.71,19.36,50.00
+Expenses,20,230,A22030130803,Zone No. 6 – Gandhibagh,5.99,20.00,50.00
+Expenses,20,230,A22035130853,Zone No. 7 – Satranjipura,9.59,19.18,50.00
+Expenses,20,230,A22040130803,Zone No. 8 – Lakadganj,5.27,7.32,50.00
+Expenses,20,230,A22045130853,Zone No. 9 – Ashinagar,9.76,19.78,50.00
+Expenses,20,230,A22050130803,Zone No. 10 – Mangalwari,8.80,13.27,50.00
+Expenses,20,230,A22101330813,Bridge maintenance and repairs,36.30,64.25,200.00
+Expenses,20,220,A22301730914,Expenses on street lights (electricity bills),2500.02,2976.94,3600.00
+Expenses,20,230,A22301730815,Maintenance and repairs of street lights,1947.01,2192.28,3000.00
+Expenses,20,230,A22301730835,"Preventive measures against fire caused by short circuits and other reasons in Municipal Corporation buildings, hospitals and other locations",182.21,18.75,200.00
+Expenses,20,230,A22301732016,Providing phases on Maharashtra State Electricity Distribution Company poles,4.62,5.64,15.00
+Expenses,20,230,A22501530818,Repairs of channelizers and dividers,28.08,54.06,194.50
+Expenses,20,230,A22501730819,Maintenance of traffic controllers and blinkers,41.52,86.92,100.00
+Expenses,20,230,A22501530820,Improvement of road intersections,55.52,35.69,369.56
+Expenses,20,230,A22501530821,Improvement of traffic management,95.92,78.04,265.43
+Expenses,20,230,A22501530822,Improvement of parking management,1.42,27.48,240.91
+Expenses,20,230,A22600332023,"Purchase of various fire-service materials and equipment, hydrants, and maintenance and repairs",72.54,79.69,500.00
+Expenses,20,230,A22600331524,Emergency pumping of wells during contingencies,4.01,0.00,0.00
+Expenses,20,230,A22600330825,Maintenance and repairs of fire-station buildings and residential quarters for employees,7.70,12.47,100.00
+Expenses,20,230,A22702132126,Purchase of machinery materials,69.94,58.80,150.00
+Expenses,20,230,A22702130127,"Purchase of petrol, diesel and oil",903.21,1111.56,1800.00
+Expenses,20,230,A22702132128,Purchase of tyres and tubes,20.77,8.27,25.00
+Expenses,20,230,A22702132129,Purchase of machine spare parts and other materials,27.52,42.12,75.00
+Expenses,20,230,A22800710006,Miscellaneous Expenses,,0.00,15.00
+Expenses,20,230,A22801330830,"Market operation, repairs and maintenance",0.00,0.00,200.00
+Expenses,20,230,A22805130855,Zone No. 1 – Lakshminagar,0.00,0.00,30.00
+Expenses,20,230,A22810130805,Zone No. 2 – Dharampeth,0.00,39.02,30.00
+Expenses,20,230,A22815130855,Zone No. 3 – Hanumannagar,0.00,0.00,30.00
+Expenses,20,230,A22820130805,Zone No. 4 – Dhantoli,2.91,0.00,30.00
+Expenses,20,230,A22825130855,Zone No. 5 – Nehru Nagar,0.00,0.00,30.00
+Expenses,20,230,A22830130805,Zone No. 6 – Gandhibagh,4.82,0.00,30.00
+Expenses,20,230,A22835130855,Zone No. 7 – Satranjipura,1.97,8.19,30.00
+Expenses,20,230,A22840130805,Zone No. 8 – Lakadganj,0.00,0.00,30.00
+Expenses,20,230,A22845130855,Zone No. 9 – Ashinagar,5.00,6.49,30.00
+Expenses,20,230,A22850130805,Zone No. 10 – Mangalwari,4.78,5.22,112.52
+Expenses,20,230,A22301730832,Electrical inspection/testing of Municipal Corporation buildings,5.33,27.70,50.00
+Expenses,20,220,A22301730833,Electrical Expenses of Municipal Corporation buildings,444.69,479.72,700.00
+Expenses,20,230,A22301730834,Maintenance and repairs of fans and coolers in Municipal Corporation offices,6.25,9.27,28.00
+Expenses,20,230,A22905130856,Zone No. 1 – Lakshminagar,7.33,12.15,50.00
+Expenses,20,230,A22910130806,Zone No. 2 – Dharampeth,4.60,9.92,50.00
+Expenses,20,230,A22915130856,Zone No. 3 – Hanumannagar,8.76,5.48,50.00
+Expenses,20,230,A22920130806,Zone No. 4 – Dhantoli,4.60,13.36,50.00
+Expenses,20,230,A22925130856,Zone No. 5 – Nehru Nagar,6.51,15.86,50.00
+Expenses,20,230,A22930130806,Zone No. 6 – Gandhibagh,5.96,21.59,50.00
+Expenses,20,230,A22935130856,Zone No. 7 – Satranjipura,2.14,21.31,50.00
+Expenses,20,230,A22940130806,Zone No. 8 – Lakadganj,7.60,10.19,50.00
+Expenses,20,230,A22945130856,Zone No. 9 – Ashinagar,9.45,14.51,50.00
+Expenses,20,230,A22950130806,Zone No. 10 – Mangalwari,9.44,5.73,50.00
+Expenses,20,230,A22901330836,Maintenance and repairs of the Municipal Corporation central office and new administrative buildings,26.02,36.48,300.00
+Expenses,20,230,A22901330837,Maintenance and repairs of Shri Raje Raghujirao Bhosale Nagar Bhavan auditorium and Mahal office,23.62,0.00,50.00
+Expenses,20,230,A22901330838,Maintenance and repairs of the bungalow for the Municipal Commissioner,2.92,48.12,60.00
+Expenses,20,230,A22905130857,Zone No. 1 – Lakshminagar,0.97,16.16,50.00
+Expenses,20,230,A22910130807,Zone No. 2 – Dharampeth,5.91,12.11,50.00
+Expenses,20,230,A22915130857,Zone No. 3 – Hanumannagar,6.95,13.31,50.00
+Expenses,20,230,A22920130807,Zone No. 4 – Dhantoli,7.18,6.46,50.00
+Expenses,20,230,A22925130857,Zone No. 5 – Nehru Nagar,7.82,0.00,50.00
+Expenses,20,230,A22930130807,Zone No. 6 – Gandhibagh,11.41,19.59,50.00
+Expenses,20,230,A22935130857,Zone No. 7 – Satranjipura,13.18,24.29,50.00
+Expenses,20,230,A22940130807,Zone No. 8 – Lakadganj,14.62,5.78,50.00
+Expenses,20,230,A22945130857,Zone No. 9 – Ashinagar,11.53,4.68,50.00
+Expenses,20,230,A22950130807,Zone No. 10 – Mangalwari,5.80,24.94,50.00
+Expenses,20,230,A22600330840,Operation Expenses for the national flag at Kasturchand Park,0.00,0.00,0.00
+Expenses,20,250,A22600340401,Fire Services Education,0.00,0.90,15.00
+Expenses,20,250,A22600340102,Natural disaster assistance,8.53,0.85,5.00
+Expenses,20,290,A22701540703,Financial assistance/fund for Nagpur Mahanagar Parivahan Department; transfer of amount for Budget B,21584.14,22732.66,17000.00
+Expenses,20,271,A22701330831,Royalty payment,0.00,0.00,0.00
+Expenses,30,210,A23001110001,Health Officer’s Office – Establishment,213.96,183.90,210.00
+Expenses,30,210,A23101210002,"Establishment Expenses for nuisance control, disease prevention, malaria prevention and filariasis prevention",2373.84,2012.37,2500.00
+Expenses,30,210,A23201110003,Family Welfare / Family Planning / Birth and Death Registration Establishment Expenses,88.70,86.98,125.00
+Expenses,30,210,A23301110004,Health Centre – Establishment Expenses,569.76,517.82,575.00
+Expenses,30,210,A23301110005,"Hospitals, dispensaries, maternity homes and child-care establishments – Establishment Expenses",876.22,788.48,1012.68
+Expenses,30,210,A23501210006,Cremation Ground Establishment Expenses,0.00,19.46,40.00
+Expenses,30,220,A23001122201,Reimbursement of medical expenses (for employees),439.15,463.79,1200.00
+Expenses,30,220,A23101222702,Purchase of disinfectants,138.67,27.54,300.00
+Expenses,30,220,A23101122703,Isolation Hospital,0.00,3.57,30.00
+Expenses,30,220,A23201122004,Birth and Death Registration Expenses,37.65,78.17,100.00
+Expenses,30,220,A23201122005,Family Welfare Centre / Family Planning – miscellaneous Expenses,0.00,0.00,10.00
+Expenses,30,220,A23301122006,Health Centre Expenses,29.11,0.00,40.00
+Expenses,30,230,A23405130858,Zone No. 1 – Lakshminagar,0.00,8.14,20.00
+Expenses,30,230,A23410130808,Zone No. 2 – Dharampeth,0.00,0.00,20.00
+Expenses,30,230,A23415130858,Zone No. 3 – Hanumannagar,0.00,5.80,20.00
+Expenses,30,230,A23420130808,Zone No. 4 – Dhantoli,4.49,0.00,20.00
+Expenses,30,230,A23425130858,Zone No. 5 – Nehru Nagar,0.00,6.06,20.00
+Expenses,30,230,A23430130808,Zone No. 6 – Gandhibagh,0.00,2.93,20.00
+Expenses,30,230,A23435130858,Zone No. 7 – Satranjipura,3.46,10.44,20.00
+Expenses,30,230,A23440130808,Zone No. 8 – Lakadganj,4.99,0.00,20.00
+Expenses,30,230,A23445130858,Zone No. 9 – Ashinagar,5.76,0.00,20.00
+Expenses,30,230,A23450130808,Zone No. 10 – Mangalwari,4.98,9.59,20.00
+Expenses,30,230,A23401130802,Operation and medicine Expenses for all Municipal Corporation dispensaries,106.87,147.95,300.00
+Expenses,30,230,A23401130803,Operation Expenses of maternity homes,3.89,4.29,40.00
+Expenses,30,230,A23401130804,Operation Expenses of Indira Gandhi Hospital,3.23,2.53,40.00
+Expenses,30,230,A23401130805,Operation Expenses of Sadar Disease Diagnostic Centre,4.45,0.00,30.00
+Expenses,30,230,A23501130806,Operation Expenses of diesel crematorium and LPG body cremation facility,49.68,35.09,250.00
+Expenses,30,230,A23501130807,Repair and maintenance of cremation/burial ground and related works,139.85,131.25,500.00
+Expenses,30,230,A23701130808,Operation Expenses of ambulances,0.00,0.00,2.00
+Expenses,30,250,A23001141001,Qualitative improvement in public health services,29.60,9.41,50.00
+Expenses,30,250,A23001141002,Strengthening of public health services in the city and innovative health programmes,,,500.00
+Expenses,30,250,A23001141502,"Child-health exhibition, World Health Day and healthy-child competitions",0.00,0.00,0.00
+Expenses,30,250,A23001141603,Child Welfare Scheme – Phase 2,0.00,0.00,5.00
+Expenses,30,250,A23101141905,Preventive measures for rabies and swine flu,17.77,41.19,60.00
+Expenses,30,250,A23101141906,Malaria prevention Expenses,42.84,49.95,150.00
+Expenses,30,250,A23101141907,Filariasis prevention Expenses,75.37,34.92,150.00
+Expenses,30,250,A23101141908,"Preventive Expenses for COVID-19, cholera and other communicable diseases",114.80,53.98,200.00
+Expenses,30,250,A23301141009,City Health Line / Miscellaneous Expenses,10.70,8.86,0.00
+Expenses,30,250,A23301141310,Health check-ups for school students,0.00,0.00,3.00
+Expenses,30,250,A23501141211,Free funeral scheme (fuel for cremation),454.87,412.80,700.00
+Expenses,30,250,A23601142012,Health programmes: (1) Roshan-Motiya Bindu eye-care programme; (2) tuberculosis; (3) leprosy,0.00,0.00,30.00
+Expenses,90,210,A24601110003,Veterinary dispensary – Establishment Expenses,23.69,20.24,30.00
+Expenses,90,210,A24701010004,Cattle Pound – Establishment Expenses,100.57,67.09,100.00
+Expenses,90,220,A24701022005,Animal feed / capture of stray animals and purchase of materials; miscellaneous and operation Expenses,1.03,1.40,15.00
+Expenses,90,230,A24601130805,Veterinary dispensary – operation Expenses,0.00,0.00,5.00
+Expenses,90,230,A24601232006,Expenses for pest-control arrangements,0.00,0.00,5.00
+Expenses,90,230,A24701030807,Cattle Pound Management – Maintenance and Repairs,4.71,0.00,5.00
+Expenses,90,230,A24801330808,Slaughterhouse maintenance and repairs,0.00,3.94,5.00
+Expenses,90,250,A24001220301,Publicity,169.07,307.88,1500.00
+Expenses,90,250,A24001220302,Participation / contribution of Municipal Corporation in Swachh Bharat Abhiyan,99.84,104.36,1500.00
+Expenses,50,210,A25002010001,Education Office - Establishment Expenses,0.00,0.00,0.00
+Expenses,50,210,A25202010002,Primary School – Establishment Expenses,8532.76,6099.61,7000.00
+Expenses,50,210,A25302010003,Secondary School – Establishment Expenses,1103.62,842.42,900.00
+Expenses,50,210,A25600210004,Library Establishment Expenses,129.49,79.63,150.00
+Expenses,50,210,A25600210005,Study Room – work-related establishment Expenses,62.13,58.18,75.00
+Expenses,50,271,A25002022004,Miscellaneous Expenses,5.86,8.20,20.00
+Expenses,50,250,A25002022005,Expenses for uniforms/material for Municipal Corporation schools,0.00,0.00,250.00
+Expenses,50,230,A25002020705,School uniforms for students; provision for uniforms and other material purchases,49.70,25.99,40.00
+Expenses,50,230,A25202020808,"Purchase of textbooks, notebooks, school bags and other materials required for primary, secondary and junior-college students",94.61,151.39,200.00
+Expenses,50,220,A25202021010,Rent of school buildings,31.60,6.41,5.00
+Expenses,50,230,A25202030801,Repairs/maintenance of primary school buildings,50.66,0.00,500.00
+Expenses,50,230,A25205130865,Zone No. 1 – Lakshminagar,,,0.00
+Expenses,50,230,A25210130815,Zone No. 2 – Dharampeth,,,0.00
+Expenses,50,230,A25215130865,Zone No. 3 – Hanumannagar,,,0.00
+Expenses,50,230,A25220130815,Zone No. 4 – Dhantoli,,,0.00
+Expenses,50,230,A25225130865,Zone No. 5 – Nehru Nagar,,,0.00
+Expenses,50,230,A25230130815,Zone No. 6 – Gandhibagh,,,0.00
+Expenses,50,230,A25235130865,Zone No. 7 – Satranjipura,,,0.00
+Expenses,50,230,A25240130815,Zone No. 8 – Lakadganj,,,0.00
+Expenses,50,230,A25245130865,Zone No. 9 – Ashinagar,,,0.00
+Expenses,50,230,A25250130815,Zone No. 10 – Mangalwari,,,0.00
+Expenses,50,230,A25302030802,Secondary school building – repairs/maintenance,,4.81,200.00
+Expenses,50,230,A25305130866,Zone No. 1 – Lakshminagar,0.00,0.00,0.00
+Expenses,50,230,A25310130816,Zone No. 2 – Dharampeth,0.00,0.00,0.00
+Expenses,50,230,A25315130866,Zone No. 3 – Hanumannagar,0.00,0.00,0.00
+Expenses,50,230,A25320130816,Zone No. 4 – Dhantoli,0.00,0.00,0.00
+Expenses,50,230,A25325130866,Zone No. 5 – Nehru Nagar,0.00,0.00,0.00
+Expenses,50,230,A25330130816,Zone No. 6 – Gandhibagh,2.94,0.00,0.00
+Expenses,50,230,A25335130866,Zone No. 7 – Satranjipura,0.00,0.00,0.00
+Expenses,50,230,A25340130816,Zone No. 8 – Lakadganj,0.00,0.00,0.00
+Expenses,50,230,A25345130866,Zone No. 9 – Ashinagar,0.00,0.00,0.00
+Expenses,50,230,A25350130816,Zone No. 10 – Mangalwari,0.00,0.00,0.00
+Expenses,50,230,A25600230803,Library and Study Room – Maintenance and Repairs,37.53,159.76,200.00
+Expenses,50,230,A25600232004,Operation Expenses for all libraries,45.72,54.09,80.00
+Expenses,50,250,A25202040601,School examinations,1.41,1.85,10.00
+Expenses,50,250,A25802041002,"Organization of Children's Day, Education Festival and Sneha Sammelan",0.00,0.00,50.00
+Expenses,50,250,A25802041003,Cash prizes/incentives for students of Municipal Corporation schools and junior colleges,9.93,4.55,10.00
+Expenses,50,250,A25802041004,Distribution of food to children on 15 August and 26 January and nutritious food to school students,2.00,3.54,40.00
+Expenses,50,250,A25802041005,"Expenses for various educational programmes, school balwadi activities and English-medium school activities",148.92,106.66,350.00
+Expenses,50,250,A25802041006,Atal Bihari Vajpayee Education Promotion and Education Development Scheme,0.00,0.00,10.00
+Expenses,100,210,A26001610001,Garden - Establishment Expenses,316.12,188.44,300.00
+Expenses,100,210,A26001610002,Garden workers – work-related establishment Expenses,0.56,17.94,30.00
+Expenses,100,271,A26001622001,Garden Department - Miscellaneous Expenses,6.78,12.07,40.00
+Expenses,100,250,A26502222002,Honorarium arrangements for cultural programmes,0.00,0.00,5.00
+Expenses,100,230,A26001630801,"Repairs, renovation and material purchase for Gandhibagh Garden",12.14,2.62,0.00
+Expenses,100,230,A26001630803,Annual maintenance of gardens and maintenance/repairs of garden roads,505.90,629.03,2000.00
+Expenses,100,230,A26001630804,"Improvement, maintenance and repairs of gardens in the city",310.97,390.18,1000.00
+Expenses,100,230,A26001630805,"Improvement, maintenance and repairs of Lata Mangeshkar Garden / Bharatmata Garden",14.27,11.36,0.00
+Expenses,100,230,A26001632106,"Purchase, maintenance and repairs of garden tools, equipment, fertilizers and pesticides",26.76,28.04,50.00
+Expenses,100,230,A26101330807,Maintenance/repairs and operation of sports grounds,29.77,10.86,300.00
+Expenses,100,230,A26102230808,Maintenance/repairs of various sports complexes,30.45,86.36,500.00
+Expenses,100,230,A26101330809,Fencing sports grounds and maintenance/repairs of fencing,0.00,0.00,0.00
+Expenses,100,230,A26601330812,Operation and management of Kavi Varya Suresh Bhat auditorium,210.59,190.98,1000.00
+Expenses,100,230,A26705130868,Zone No. 1 – Lakshminagar,1.20,0.00,5.00
+Expenses,100,230,A26710130818,Zone No. 2 – Dharampeth,0.00,1.53,5.00
+Expenses,100,230,A26715130868,Zone No. 3 – Hanumannagar,1.01,0.00,5.00
+Expenses,100,230,A26720130818,Zone No. 4 – Dhantoli,0.00,0.00,5.00
+Expenses,100,230,A26725130868,Zone No. 5 – Nehru Nagar,1.16,0.00,5.00
+Expenses,100,230,A26730130818,Zone No. 6 – Gandhibagh,0.00,0.00,5.00
+Expenses,100,230,A26735130868,Zone No. 7 – Satranjipura,1.16,0.98,5.00
+Expenses,100,230,A26740130818,Zone No. 8 – Lakadganj,0.00,0.00,5.00
+Expenses,100,230,A26745130868,Zone No. 9 – Ashinagar,1.17,0.00,5.00
+Expenses,100,230,A26750130818,Zone No. 10 – Mangalwari,1.16,1.86,5.00
+Expenses,100,230,A26701330814,Improvement of Hutatma memorial,0.00,0.00,5.00
+Expenses,100,230,A26901332316,Conservation/preservation of heritage structures,0.59,0.47,1.00
+Expenses,100,230,A26701332001,Shaheed Govari Memorial,0.00,0.00,0.00
+Expenses,100,250,A26001642101,Works required under the Tree Conservation Act and tree plantation,126.02,310.24,522.00
+Expenses,100,250,A26001641502,Innovative miscellaneous activities under the Garden Department,7.01,0.00,300.00
+Expenses,100,250,A26301642103,"Environmental protection, pollution control and public awareness",0.00,5.46,13.00
+Expenses,100,250,A26501342204,"Cultural festivals, various competitions, social/environmental programmes and contributions to other festivals",18.07,141.38,400.00
+Expenses,100,250,A26501342206,Works to be undertaken by the Municipal Corporation on the occasion of large public fairs and festivals,231.30,754.48,600.00
+Expenses,100,250,A26502042208,"Commemoration programmes for 9 August Kranti Din, 2 October Gandhi Jayanti, 12 December Sane Guruji Jayanti, 14 April Ambedkar Jayanti, Mahatma Phule Jayanti, 12 January Vivekananda Jayanti and Shiv Jayanti",0.00,0.00,5.00
+Expenses,100,250,A26502042210,Organization of a science fair,5.00,10.00,10.00
+Expenses,100,250,A26502241003,Encouragement and support to emerging sportspersons in Nagpur city,,0.00,250.00
+Expenses,100,250,A26502242211,Awards,3.00,9.86,50.00
+Expenses,100,250,A26502242212,Scout/Guide programme; police and military training and disaster-management training for school students,0.00,0.00,10.00
+Expenses,100,250,A26502242213,Sports / cultural festival,115.16,60.24,0.00
+Expenses,100,250,A26502242214,Nagpur Festival and Other Festival Contribution,0.00,0.00,0.00
+Expenses,110,210,A27501310001,Establishment Expenses for improvement of slum settlements,365.49,210.34,500.00
+Expenses,110,210,A27802410002,Social Welfare – Establishment Expenses,64.49,57.41,145.00
+Expenses,110,250,A27402020702,Providing uniforms to students from backward classes,2.09,3.13,5.00
+Expenses,110,220,A27501322603,Slum settlement plane-table survey,22.33,75.22,341.76
+Expenses,110,250,A27501322004,Miscellaneous Expenses (Golden Jubilee and slum settlements),0.04,0.00,0.00
+Expenses,110,250,A27601322005,Slum Rehabilitation Office – miscellaneous Expenses,0.00,7.50,50.00
+Expenses,110,250,A27702020806,Distribution of textbooks to primary and secondary school students,4.14,5.00,5.00
+Expenses,110,230,A27505130869,Zone No. 1 – Lakshminagar,4.85,2.82,20.00
+Expenses,110,230,A27510130819,Zone No. 2 – Dharampeth,0.49,6.22,20.00
+Expenses,110,230,A27515130869,Zone No. 3 – Hanumannagar,3.75,9.40,20.00
+Expenses,110,230,A27520130819,Zone No. 4 – Dhantoli,4.66,7.60,20.00
+Expenses,110,230,A27525130869,Zone No. 5 – Nehru Nagar,2.33,6.78,20.00
+Expenses,110,230,A27530130819,Zone No. 6 – Gandhibagh,1.94,11.51,20.00
+Expenses,110,230,A27535130869,Zone No. 7 – Satranjipura,5.89,9.62,20.00
+Expenses,110,230,A27540130819,Zone No. 8 – Lakadganj,4.79,9.56,20.00
+Expenses,110,230,A27545130869,Zone No. 9 – Ashinagar,3.70,6.82,20.00
+Expenses,110,230,A27550130819,Zone No. 10 – Mangalwari,4.98,8.66,20.00
+Expenses,110,230,A27501630802,"Garden improvement, maintenance and repairs",14.91,14.25,60.00
+Expenses,110,230,A27702030803,Primary school building repairs,2.62,5.69,49.74
+Expenses,110,230,A27702030804,Secondary school building – repairs,0.00,4.80,55.00
+Expenses,110,230,A27701330806,Repairs and maintenance of community toilets in weaker sections,,0.00,300.00
+Expenses,110,230,A27701330805,Cement paving repairs,40.27,170.19,500.00
+Expenses,110,250,A27002441601,Mother and child care and women’s welfare activities as per the cited Government Resolution and Commissioner’s directions,112.34,66.07,300.00
+Expenses,110,250,A27301342302,Antyodaya scheme for persons with disabilities,270.22,237.64,800.00
+Expenses,110,250,A27501341004,Slum settlement lease allotment,0.00,0.00,0.00
+Expenses,110,210,A27601340705,Slum Rehabilitation Office - Salary,12.00,21.43,100.00
+Expenses,110,250,A27702042406,Scholarships for backward-class students in primary and secondary schools,0.60,0.00,5.00
+Expenses,110,250,A27802440709,New construction and renovation,44.21,45.60,100.00
+Expenses,110,250,A27802440710,"Management, modernization and related works of urban livelihood centres",0.00,0.00,100.00
+Expenses,70,210,A28300121903,Police Squad - Salary Expenses,0.00,0.00,100.00
+Expenses,70,220,A28300121904,Municipal Corporation Office - Security Arrangement,1196.44,1304.31,1600.00
+Expenses,70,220,A28400120505,Telephone and mobile phone expenses,23.92,24.62,35.00
+Expenses,70,220,A26502241004,Appointment of consultants for new sports projects,,0.00,50.00
+Expenses,70,220,A28900121306,Motor accident claim,0.00,0.00,10.00
+Expenses,70,220,A28900130607,( FOR C.F.C.),808.96,441.47,900.00
+Expenses,70,250,A28202030801,CCTV installation,4.30,4.26,270.00
+Expenses,70,230,A28900130609,(Nagpur safe city project O&M ),,,2500.00
+Expenses,70,250,A28801332203,Emergency Expenses / Expenses approved by the Commissioner for COVID barricading,575.84,239.43,2000.00
+Expenses,70,230,A28200132104,Miscellaneous Expenses for the Law Department,1.99,0.00,10.00
+Expenses,70,220,A28700140401,"Expenses on officers, employees and sanitation",0.00,16.50,50.00
+Expenses,70,250,A28901341002,Innovative ideas for civic amenities,222.48,296.21,2500.00
+Expenses,70,230,A28900130608,Maintenance and other related Expenses,52.74,198.99,350.00
+Expenses,80,210,A29000610001,Tax Department / Tax Assessment - Establishment Expenses,2050.60,1505.96,2400.00
+Expenses,80,210,A29100510002,Local Body Tax / Octroi – establishment Expenses,1753.71,1219.31,1800.00
+Expenses,80,220,A29000620302,Property tax collection: publicity and day-to-day collection activities,53.59,74.09,115.00
+Expenses,80,220,A29000620203,Miscellaneous,50.19,51.91,60.00
+Expenses,80,250,A29000622604,Bus update work,560.06,285.77,900.00
+Expenses,80,220,A29000622005,Miscellaneous Expenses,36.43,52.20,200.00
+Expenses,80,230,A29100522807,Expenses on privatization,25.71,21.65,30.00
+Expenses,80,220,A29100522009,Miscellaneous Expenses,18.03,17.92,20.00
+Expenses,80,220,A29000631201,Advertisement,0.00,10.72,50.00
+Expenses,80,210,A29000610003,Establishment Expenses,0.00,0.00,200.00
+Expenses,80,220,A29000622007,Rent and Labour Expenses,0.00,0.00,100.00
+Expenses,80,230,A29000622006,"Electrical, internet and telephone repair, maintenance and other Expenses",0.00,50.31,30.00
+Expenses,80,230,A29100531202,"lax.kd Operation, Repairs and Maintenance",5.40,4.77,8.00
+Expenses,20,230,,Head Office,0.00,1.48,
+Expenses,20,230,A22405130854,Zone No. 1 – Lakshminagar,4.13,19.50,70.00
+Expenses,20,230,A22410130804,Zone No. 2 – Dharampeth,9.60,6.64,70.00
+Expenses,20,230,A22415130854,Zone No. 3 – Hanumannagar,6.69,0.00,70.00
+Expenses,20,230,A22420130804,Zone No. 4 – Dhantoli,9.26,17.32,70.00
+Expenses,20,230,A22425130854,Zone No. 5 – Nehru Nagar,7.23,12.92,70.00
+Expenses,20,230,A22430130804,Zone No. 6 – Gandhibagh,8.71,19.57,70.00
+Expenses,20,230,A22435130854,Zone No. 7 – Satranjipura,9.76,14.36,70.00
+Expenses,20,230,A22440130804,Zone No. 8 – Lakadganj,9.33,19.18,70.00
+Expenses,20,230,A22445130854,Zone No. 9 – Ashinagar,6.33,12.06,70.00
+Expenses,20,230,A22450130804,Zone No. 10 – Mangalwari,9.96,13.52,70.00
+Expenses,30,210,A23901310007,Underground drainage – Establishment Expenses,85.08,78.42,80.00
+Expenses,30,210,A23902310008,Sewerage project – Establishment Expenses,30.66,13.64,50.00
+Expenses,30,210,A23902310009,Establishment Expenses (PHE),,0.00,1500.00
+Expenses,30,230,A23805130859,Zone No. 1 – Lakshminagar,2.31,0.56,5.00
+Expenses,30,230,A23810130809,Zone No. 2 – Dharampeth,0.00,0.00,5.00
+Expenses,30,230,A23815130859,Zone No. 3 – Hanumannagar,0.00,0.00,5.00
+Expenses,30,230,A23820130809,Zone No. 4 – Dhantoli,0.00,0.00,5.00
+Expenses,30,230,A23825130859,Zone No. 5 – Nehru Nagar,1.03,0.00,5.00
+Expenses,30,230,A23830130809,Zone No. 6 – Gandhibagh,0.00,0.00,5.00
+Expenses,30,230,A23835130859,Zone No. 7 – Satranjipura,2.92,1.62,5.00
+Expenses,30,230,A23840130809,Zone No. 8 – Lakadganj,1.86,2.87,5.00
+Expenses,30,230,A23845130859,Zone No. 9 – Ashinagar,0.99,0.00,5.00
+Expenses,30,230,A23850130809,Zone No. 10 – Mangalwari,2.89,3.96,5.00
+Expenses,30,230,A23801930910,Electricity Expenses,8255.66,9285.38,11000.00
+Expenses,30,230,A23801931111,Expenses for obtaining water from the Peth project,1778.92,2590.02,2800.00
+Expenses,30,230,A23801730812,Maintenance/repairs of pumps on wells,24.17,19.67,70.00
+Expenses,30,230,A23901231513,Cleaning work,62.05,138.52,700.00
+Expenses,30,230,A23905132060,Zone No. 1 – Lakshminagar,4.32,13.14,70.00
+Expenses,30,230,A23910132010,Zone No. 2 – Dharampeth,5.92,7.58,70.00
+Expenses,30,230,A23915132060,Zone No. 3 – Hanumannagar,6.67,19.32,70.00
+Expenses,30,230,A23920132010,Zone No. 4 – Dhantoli,9.45,12.48,70.00
+Expenses,30,230,A23925132060,Zone No. 5 – Nehru Nagar,3.38,19.99,70.00
+Expenses,30,230,A23930132010,Zone No. 6 – Gandhibagh,10.93,19.61,70.00
+Expenses,30,230,A23935132060,Zone No. 7 –Satranji Pura,8.94,19.59,70.00
+Expenses,30,230,A23940132010,Zone No. 8 – Lakadganj,2.90,19.87,70.00
+Expenses,30,230,A23945132060,Zone No. 9 – Ashinagar,8.17,7.86,70.00
+Expenses,30,230,A23950132010,Zone No. 10 – Mangalwari,9.33,11.26,70.00
+Expenses,30,230,A23905130861,Zone No. 1 – Lakshminagar,3.91,3.39,50.00
+Expenses,30,230,A23910130811,Zone No. 2 – Dharampeth,0.59,2.91,50.00
+Expenses,30,230,A23915130861,Zone No. 3 – Hanumannagar,0.00,4.82,50.00
+Expenses,30,230,A23920130811,Zone No. 4 – Dhantoli,0.00,4.84,50.00
+Expenses,30,230,A23925130861,Zone No. 5 – Nehru Nagar,0.96,4.88,50.00
+Expenses,30,230,A23930130811,Zone No. 6 – Gandhibagh,0.92,4.77,50.00
+Expenses,30,230,A23935130861,Zone No. 7 –Satranji Pura,0.99,2.95,50.00
+Expenses,30,230,A23940130811,Zone No. 8 – Lakadganj,0.96,4.76,50.00
+Expenses,30,230,A23945130861,Zone No. 9 – Ashinagar,0.97,0.00,50.00
+Expenses,30,230,A23950130811,Zone No. 10 – Mangalwari,0.99,3.93,50.00
+Expenses,30,230,A23905130862,Zone No. 1 – Lakshminagar,15.79,29.99,80.00
+Expenses,30,230,A23910130812,Zone No. 2 – Dharampeth,3.93,22.92,80.00
+Expenses,30,230,A23915130862,Zone No. 3 – Hanumannagar,6.49,24.95,80.00
+Expenses,30,230,A23920130812,Zone No. 4 – Dhantoli,14.56,29.62,80.00
+Expenses,30,230,A23925130862,Zone No. 5 – Nehru Nagar,15.78,26.22,80.00
+Expenses,30,230,A23930130812,Zone No. 6 – Gandhibagh,15.37,28.34,80.00
+Expenses,30,230,A23935130862,Zone No. 7 –Satranji Pura,19.98,29.26,80.00
+Expenses,30,230,A23940130812,Zone No. 8 – Lakadganj,20.00,26.67,80.00
+Expenses,30,230,A23945130862,Zone No. 9 – Ashinagar,15.13,29.16,80.00
+Expenses,30,230,A23950130812,Zone No. 10 – Mangalwari,15.48,0.00,80.00
+Expenses,30,230,,Head Office,,9.12,
+Expenses,30,230,A23905130863,Zone No. 1 – Lakshminagar,1719.22,143.02,280.00
+Expenses,30,230,A23910130813,Zone No. 2 – Dharampeth,0.00,152.99,280.00
+Expenses,30,230,A23915130863,Zone No. 3 – Hanumannagar,0.00,114.39,280.00
+Expenses,30,230,A23920130813,Zone No. 4 – Dhantoli,0.00,165.75,280.00
+Expenses,30,230,A23925130863,Zone No. 5 – Nehru Nagar,0.00,147.36,280.00
+Expenses,30,230,A23930130813,Zone No. 6 – Gandhibagh,14.49,142.14,280.00
+Expenses,30,230,A23935130863,Zone No. 7 –Satranji Pura,0.00,132.17,280.00
+Expenses,30,230,A23940130813,Zone No. 8 – Lakadganj,0.00,150.90,280.00
+Expenses,30,230,A23945130863,Zone No. 9 – Ashinagar,0.00,119.12,280.00
+Expenses,30,230,A23950130813,Zone No. 10 – Mangalwari,5.10,54.05,280.00
+Expenses,30,230,A23902330818,Sewerage Treatment Centres at Bhandewadi and other sewage-treatment centres (above 5 MLD capacity),6102.42,8338.38,8000.00
+Expenses,30,230,A23801932617,Hiring machinery for clearing sewer-line blockages and cleaning,,0.00,2000.00
+Expenses,30,230,A23901230819,Sewerage/wastewater pipelines and related works,0.00,23.22,150.00
+Expenses,30,230,A23901230820,Mechanical road sweeper operation Expenses,0.00,0.00,300.00
+Expenses,30,220,A23801941015,Office miscellaneous Expenses,7.15,7.99,15.00
+Expenses,30,230,A23801932616,Payment of water bills according to meter readings for Municipal Corporation administrative and other buildings (for reconciliation),1675.58,755.26,1700.00
+Expenses,90,210,A24201210001,Cleanliness and solid-waste management – Establishment Expenses,25819.84,21260.56,30000.00
+Expenses,90,210,A24201210002,Establishment Expenses for daily-wage workers,2849.37,2460.64,3000.00
+Expenses,90,220,A24001221301,Insurance grant for sanitation workers,0.00,0.00,56.00
+Expenses,90,220,A24001220702,Uniforms for sanitation workers,32.63,24.71,150.00
+Expenses,90,220,A24001222002,Appointment of a project consultant for various innovative projects,,0.00,200.00
+Expenses,90,220,A24001222003,Health/Sanitation Department – administrative and operation Expenses,8.55,14.08,25.00
+Expenses,90,230,A24001222004,Purchase of sanitation materials,48.12,17.34,100.00
+Expenses,90,230,A24001221905,Administrative and operation Expenses of the anti-dirt/cleanliness vigilance squad,722.97,635.96,600.00
+Expenses,90,230,A24101231701,Transportation of waste,9327.59,10177.85,12725.00
+Expenses,90,230,A24101230802,Maintenance/repairs of wheel-barrow and bell carts,7.60,4.68,50.00
+Expenses,90,230,A24501232003,Cleanliness,0.91,2.60,700.00
+Expenses,90,230,A24505130864,Zone No. 1 – Lakshminagar,1.97,1.73,15.00
+Expenses,90,230,A24510130814,Zone No. 2 – Dharampeth,0.00,0.00,15.00
+Expenses,90,230,A24515130864,Zone No. 3 – Hanumannagar,3.37,0.00,15.00
+Expenses,90,230,A24520130814,Zone No. 4 – Dhantoli,0.00,2.64,15.00
+Expenses,90,230,A24525130864,Zone No. 5 – Nehru Nagar,0.00,1.16,15.00
+Expenses,90,230,A24530130814,Zone No. 6 – Gandhibagh,0.00,1.96,15.00
+Expenses,90,230,A24535130864,Zone No. 7 –Satranji Pura,0.00,3.92,15.00
+Expenses,90,230,A24540130814,Zone No. 8 – Lakadganj,1.30,0.96,15.00
+Expenses,90,230,A24545130864,Zone No. 9 – Ashinagar,0.40,0.00,15.00
+Expenses,90,230,A24550130814,Zone No. 10 – Mangalwari,1.91,2.46,15.00
+Liability,00,320,A30201360901,Amadar Fund (DPDC) grant,3472.29,4335.99,3500.00
+Liability,00,320,A30201361204,Khasdar Fund (DPDC) grant,284.91,87.29,5.00
+Liability,00,320,A30201361002,Special government grant for Nagpur city development / basic civic facilities,14791.00,134017.66,68000.00
+Liability,00,320,A30201361103,Grant received through the Vidarbha Statutory Development Board,0.00,0.00,0.01
+Liability,00,320,A30201361104,Grant received from the Mineral Development Department,,135.13,10.94
+Liability,00,320,A30201361105,Minority grant,,178.82,500.00
+Liability,00,320,A30201361106,Grant for newly extended municipal limits,,4575.00,2500.00
+Liability,00,320,A30201361107,Pilgrimage / religious tourism area grant,,100.00,1.00
+Liability,00,320,A30200461014,Government grant under G20 (summit / micro development works),4977.00,0.00,0.01
+Liability,00,320,A30200461205,Grant received from the State Government for JNNURM projects and other major capital Expenses schemes,0.00,0.00,0.01
+Liability,00,320,A30200461009,Grant received under Atal Mission for Rejuvenation and Urban Transformation (AMRUT) for various projects / development works,12.26,0.00,0.00
+Liability,00,320,A30201360106,Grant received from the State Government and Nagpur Slum Improvement / Development authority under the Integrated Road Improvement Project (IRIP),0.00,0.00,0.01
+Liability,00,320,A30201360107,Maharashtra Suvarna Jayanti Nagari Utthan Abhiyan grant,3000.00,25271.60,500.00
+Liability,00,320,A36301961711,Solid waste management Grant & SBM Grant,0.00,0.00,0.01
+Liability,00,320,A36301961712,Grant for air-pollution control projects under the National Clean Air Programme,0.00,0.00,0.01
+Liability,00,320,A36301961713,"Grant for water supply, conservation and solid-waste management",0.00,0.00,0.00
+Liability,00,330,A30200470301,Loan received from financial institutions / banks (including sanctioned but undrawn loan balance),0.00,0.00,0.01
+Liability,20,330,A32301770301,"Loan for shifting obstructing electrical poles and alternate arrangements, road-lighting improvement / repair and strengthening / modernization works",0.10,0.00,1.00
+Liability,110,320,A30201361003,Government grant for improvement of urban deprived / slum settlements,4757.83,16243.37,8300.00
+Liability,110,320,A33902371914,Grant under the 15th Finance Commission for air-quality improvement projects,6523.78,0.00,4639.00
+Liability,110,320,A33902371915,Grant for sewerage projects in the AMRUT-2 sewerage zone of south Nagpur,0.00,0.00,15000.00
+Liability,110,320,A33902371916,AMRUT grant for lakes,0.00,825.00,0.01
+Liability,110,320,A33902371917,Grant received under Nag River pollution abatement projects,,0.00,10000.00
+Liability,110,320,A37401361302,Grant for social development works in Dalit settlements under the Dr. Babasaheb Ambedkar Social Development Scheme,,641.20,2000.00
+Liability,110,320,A37401361301,Urban Dalit settlement improvement scheme for works in Dalit settlements,874.00,9146.86,9000.00
+Liability,110,320,A37401361402,Grant received from the Government for housing under the SC Nav-Buddhist housing scheme,3554.50,4167.00,2000.00
+Liability,110,320,A37402461415,PM SVANidhi grant,0.00,0.00,0.01
+Liability,110,320,A37402461416,Beggar rehabilitation project grant,0.00,0.00,9.00
+Liability,00,340,A50100180101,Security deposits and advance amounts collected by municipal agents for citizen service centres,0.00,0.00,0.01
+Liability,00,340,A50200480102,Security deposit collected from contractors,2189.19,0.00,2000.00
+Liability,00,340,A50200480503,Other deposits,71.80,0.00,200.00
+Liability,00,340,A50200480904,Traffic / transit deposit,0.00,0.00,0.01
+Liability,10,340,A51101880101,Earnest money deposit,124.97,0.00,650.00
+Liability,10,340,A50200440705,Amount received / recoverable for Metro Rail project / government obligations,,0.00,0.01
+Liability,10,340,A51101880102,Deposit amount collected while issuing building permits,0.00,0.00,0.00
+Liability,80,341,A52001380501,Works for which deposits are collected,100.00,0.00,1.00
+Liability,80,340,A52800780502,Deposit collected from shops,4.88,0.00,10.00
+Liability,80,340,A59600480201,Deposit received from contractor income-tax deductions,2356.36,0.00,2000.00
+Liability,80,350,A59600480210,Goods and Services Tax (TDS) deduction – CGST,966.66,0.00,900.00
+Liability,80,350,A59600480211,Goods and Services Tax (TDS) deduction – SGST,966.11,0.00,900.00
+Liability,80,350,A59600480212,Goods and Services Tax (TDS) deduction – IGST,0.17,0.00,5.00
+Liability,80,341,A59700481002,Works Contract Tax (WCT) deduction,0.65,0.00,2.00
+Liability,80,340,A59800481103,Construction labour welfare cess deposit,645.28,0.00,800.00
+Liability,80,350,A59000681204,State Govt. Outstanding Education Cess,18.32,1586.96,1251.81
+Liability,80,350,A59000681205,Current State Government education cess,29.45,1874.87,2249.32
+Liability,80,350,A59000681306,Arrears of Employment Guarantee Cess (EGC),2.70,148.30,109.85
+Liability,80,350,A59000681307,Current Employment Guarantee Cess (EGC),4.76,185.93,187.02
+Liability,80,350,A59000681408,Arrears of government tax on large residential buildings,3.65,258.13,267.75
+Liability,80,350,A59000681409,Current government tax on large residential buildings,6.25,413.12,543.47
+Liability,30,341,A53801980501,Deposit for works,0.00,0.00,50.00
+Liability,00,350,A70200490701,Other advances for other Expenses,1221.16,382.06,1000.00
+Liability,20,350,A72001490601,Adjustment against purchase of materials for the Hot Mix Plant,48.36,0.00,0.01
+Liability,20,350,A72000490602,Advance adjustment for material purchases,0.00,0.00,0.01
+Liability,20,350,A72001390703,Adjustment against purchase of materials by the Public Works Department,292.94,0.00,0.00
+Liability,70,350,A70200490101,Festival advance adjustment,891.30,0.00,900.00
+Liability,30,350,A73801990701,Meter advance,142.41,330.73,150.00
+Liability,30,350,A73801990702,Adjustment for purchase of materials by the Water Supply Department,,0.00,1.00
+Asset,00,410,A40100174401,Purchase of furniture for all Municipal Corporation departments,13.80,14.94,25.00
+Asset,00,410,A40100174502,Purchase of vehicles / vehicles operated by electric energy,0.00,0.00,80.00
+Asset,00,410,A40600870304,Miscellaneous public-improvement works and land acquisition under Maharashtra Suvarna Jayanti Nagari Utthan Mission from grants received,2725.65,4052.12,20000.00
+Asset,00,412,A40200440701,J.N.N.U.R.M.,1018.26,469.66,450.00
+Asset,00,412,A40200440702,Participation,0.00,0.00,0.01
+Asset,00,412,A40200440704,(AMRUT) Grant,9964.39,11743.89,400.00
+Asset,00,412,A40200440705,Municipal Corporation contribution for Metro Rail projects,2399.70,4299.33,5000.00
+Asset,00,412,A40200440706,G-20 SUMMIT MISC.DEV.WORK (ONLY FOR G-20 SUMMIT PROGRAMM),1698.95,436.09,0.01
+Asset,00,330,A40200450201,Repayment of non-government loans,10363.31,8099.76,3700.00
+Asset,00,330,A40200450202,Installments of loans taken from HUDCO,0.00,0.00,0.01
+Asset,00,330,A40200450103,Adjustment and interest on loans taken from LIC/Maharashtra Jeevan Pradhikaran and OMCB,0.00,0.00,0.01
+Asset,00,412,A40200450404,Guarantee fee and stamp duty payable to Government regarding non-government loans raised by Municipal Corporation,0.00,0.00,2.00
+Asset,00,330,A40200450206,Repayment of private loans,0.00,0.00,2.00
+Asset,00,412,A40200470101,Unpaid Expenses,1417.91,567.15,500.00
+Asset,00,412,A40200470202,Committed Capital Expnditure,45.04,97.33,0.01
+Asset,00,410,A40200440703,Contribution under the Maharashtra Road Development Corporation / IRDP programme,0.00,0.00,0.01
+Asset,10,410,A42001374601,Work to promote Nagpur city as a tourism hub,0.00,0.00,1000.00
+Asset,20,410,A42002370501,Roads and premises development under Bhandewadi,0.00,0.00,80.00
+Asset,20,410,A42001374602,Other improvement works of the Roads Department,224.56,188.38,1200.00
+Asset,20,412,A42001374603,Various development works for Nagpur city,233.05,63.87,600.00
+Asset,20,410,A42001374604,Various development works,297.07,29.21,0.00
+Asset,20,412,,Head Office,,5.41,
+Asset,20,412,A42005174652,Zone No. 1 – Lakshminagar,92.03,151.55,200.00
+Asset,20,412,A42010174602,Zone No. 2 – Dharampeth,100.21,160.23,200.00
+Asset,20,412,A42015174652,Zone No. 3 – Hanumannagar,56.95,155.68,200.00
+Asset,20,412,A42020174602,Zone No. 4 – Dhantoli,95.37,136.22,200.00
+Asset,20,412,A42025174652,Zone No. 5 – Nehru Nagar,86.42,168.18,200.00
+Asset,20,412,A42030174602,Zone No. 6 – Gandhibagh,76.40,178.89,200.00
+Asset,20,412,A42035174652,Zone No. 7 – Satranjipura,94.79,189.28,200.00
+Asset,20,412,A42040174602,Zone No. 8 – Lakadganj,99.36,156.07,200.00
+Asset,20,412,A42045174652,Zone No. 9 – Ashinagar,75.13,102.95,200.00
+Asset,20,410,A42050174602,Zone No. 10 – Mangalwari,99.60,177.90,200.00
+Asset,20,412,A42001370406,Development scheme implementation and works as per the development plan,487.25,131.22,2500.00
+Asset,20,410,A42001474708,Materials and equipment,1.93,0.90,10.45
+Asset,20,412,,Head Office,,35.45,
+Asset,20,410,A42005170553,Zone No. 1 – Lakshminagar,0.00,60.31,220.00
+Asset,20,410,A42010170503,Zone No. 2 – Dharampeth,39.09,160.90,220.00
+Asset,20,410,A42015170553,Zone No. 3 – Hanumannagar,10.48,67.65,220.00
+Asset,20,410,A42020170503,Zone No. 4 – Dhantoli,65.14,45.07,220.00
+Asset,20,410,A42025170553,Zone No. 5 – Nehru Nagar,8.93,75.59,220.00
+Asset,20,410,A42030170503,Zone No. 6 – Gandhibagh,73.35,68.88,220.00
+Asset,20,410,A42035170553,Zone No. 7 – Satranjipura,13.42,30.81,220.00
+Asset,20,410,A42040170503,Zone No. 8 – Lakadganj,43.47,121.32,220.00
+Asset,20,410,A42045170553,Zone No. 9 – Ashinagar,41.86,80.11,220.00
+Asset,20,410,A42050170503,Zone No. 10 – Mangalwari,34.92,103.31,220.00
+Asset,20,410,A42001474710,Purchase of machinery and equipment for the hot-mix plant,0.00,183.95,0.00
+Asset,20,412,A42001361003,Expenses under the urban post-Dalit-settlement improvement scheme,2085.45,9269.43,12800.00
+Asset,20,410,A42001361004,Cement-concrete road projects under the basic infrastructure facilities grant – Phase 4,0.00,0.00,15000.00
+Asset,20,410,A42001470511,Rashtrasant Tukdoji Maharaj Roads Development Programme,1902.98,1370.10,3500.00
+Asset,20,410,A42001374612,Works transferred under N.S.P. – 572 and 1900,745.98,53.46,1500.00
+Asset,20,410,A42001470513,"Construction of new roads in the city (graveling, asphalt surfacing and widening)",88.02,33.87,50.00
+Asset,20,410,A42001470514,"Integrated Road Improvement Project (IRIP): cement-concrete road construction, including Municipal Corporation contribution, State Government grants and Nagpur Improvement Trust contribution for development of Nagpur city",1453.63,2538.85,1000.00
+Asset,20,410,A42001474614,Construction of new hot-mix plant in memory of Late Eknathrao Jog,0.00,0.00,200.00
+Asset,20,410,A42001374615,Construction of retaining walls,97.55,67.67,150.00
+Asset,20,410,A42101370616,Construction of new bridges,372.63,927.19,3000.00
+Asset,20,410,A42301770718,Improvement of lighting arrangements,41.24,265.39,1200.00
+Asset,20,410,A42301770719,Improvement of lighting arrangements on major roads in Nagpur city and installation of high-mast lights,90.73,47.36,400.00
+Asset,20,410,A42301770720,Purchase of materials for maintenance of lights in Municipal Corporation buildings,18.74,20.54,42.00
+Asset,20,410,A42301770721,Purchase of coolers and electrical equipment,0.00,0.00,15.00
+Asset,20,410,A42305170754,Zone No. 1 – Lakshminagar,0.00,0.00,0.20
+Asset,20,410,A42310170704,Zone No. 2 – Dharampeth,0.00,0.00,0.20
+Asset,20,410,A42315170754,Zone No. 3 – Hanumannagar,0.00,0.00,0.20
+Asset,20,410,A42320170704,Zone No. 4 – Dhantoli,0.00,0.00,0.20
+Asset,20,410,A42325170754,Zone No. 5 – Nehru Nagar,0.00,0.00,0.20
+Asset,20,410,A42330170704,Zone No. 6 – Gandhibagh,0.00,0.00,0.20
+Asset,20,410,A42335170754,Zone No. 7 – Satranjipura,0.00,0.00,0.20
+Asset,20,410,A42340170704,Zone No. 8 – Lakadganj,0.00,0.00,0.20
+Asset,20,410,A42345170754,Zone No. 9 – Ashinagar,0.00,0.00,0.20
+Asset,20,410,A42350170704,Zone No. 10 – Mangalwari,0.00,0.00,0.20
+Asset,20,410,A42301770723,Energy-saving measures: modernization of street-light systems and LED/solar equipment,0.00,191.52,2500.00
+Asset,20,410,A42301770724,New electricity connection,1.51,6.21,15.00
+Asset,20,410,A42301770725,"Energy-saving measures: modernization of street-light systems, purchase of LED street lights and installation of solar-powered equipment using special grants received for Nagpur city development",3910.87,4484.54,4500.00
+Asset,20,410,A42501570927,Integrated junction development project,3.16,0.00,50.00
+Asset,20,410,A42501770928,Installation and improvement works,32.76,82.75,50.00
+Asset,20,410,A42501570929,Director Fruit Processing (Science System) Construction,10.37,68.16,199.67
+Asset,20,410,A42501770930,Construction of N.M.C. Electric Charging Station – Supporting Infrastructure,0.00,38.37,100.00
+Asset,20,410,A42600371031,Purchase of wireless sets,3.70,2.10,200.00
+Asset,20,410,A42600371332,Smart Fire Station,122.11,978.08,2500.00
+Asset,20,410,A42600371033,Purchase of equipment for fire-service map/building works,219.61,542.19,2500.00
+Asset,20,410,A42600371034,Purchase of fire-fighting equipment and machinery using special grants received for Nagpur city development,838.04,0.00,0.00
+Asset,20,410,A42600371335,"Construction of an urban security, disaster-management and fire-service training centre in memory of Shahid Prabhu Kuhikar and Shahid Ramesh Thakre",86.88,0.00,0.00
+Asset,20,410,A42801371236,Construction and development of market,19.31,31.26,300.00
+Asset,20,410,A42800771237,Construction and expansion of new vegetable market,0.00,0.00,1.00
+Asset,20,410,A42800771238,Construction of hawkers' zones,57.18,0.00,50.00
+Asset,20,410,A42901371339,Construction of zonal offices,0.00,10.85,1000.00
+Asset,20,410,A42901371340,Construction of new Municipal Corporation administrative building,0.00,10.87,100.00
+Asset,20,410,A42901371341,Construction of community centres and gymnasiums,35.82,34.64,35.00
+Asset,20,410,A42901371342,Bharat Ratna Dr. Babasaheb Ambedkar Tax,0.00,0.00,1.00
+Asset,20,410,A42901374644,Night shelter for beggars,0.00,0.00,500.00
+Asset,20,410,A42901374645,Orange City Street Project and Metro Mall,36.23,63.84,0.00
+Asset,20,410,A42901371346,Construction,0.00,0.00,100.00
+Asset,20,410,A41200974547,Purchase of machinery and vehicles for anti-encroachment squads for 10 zonal offices using special grants received for Nagpur city development,0.00,30.00,30.00
+Asset,20,410,A42001360901,Works from MLA fund (DPDC),3425.52,3324.62,3500.00
+Asset,20,412,A42001361002,Works from special grants received for Nagpur city development and works under basic infrastructure facilities grants,11233.22,24657.37,74200.00
+Asset,20,412,A42001361203,Works to be undertaken from MP fund,160.71,215.88,500.00
+Asset,20,412,A42001361104,Works from grants received through Vidarbha statutory development board,0.00,0.00,0.01
+Asset,20,412,A42001360905,Maharashtra Suvarna Jayanti Nagari Utthan Mission works (Municipal Corporation and Government funds in prescribed proportion),42.91,30.46,20.00
+Asset,30,410,A43401171501,"Medicines, X-ray, eye department and dialysis department equipment for Late Prabhakarrao Datke Memorial Mahal Disease Diagnostic Centre",48.91,49.66,100.00
+Asset,30,410,A43401171602,Purchase of machinery,1206.21,1288.89,600.00
+Asset,30,410,A43401171503,"Purchase of medical instruments/equipment and medical machines for hospitals, and purchase of medical-treatment vehicles",5.77,18.66,80.00
+Asset,30,410,A43401171304,Construction and expansion of dispensaries,710.37,709.46,2000.00
+Asset,30,410,A43501271705,Expenses up to ₹800,82.74,135.23,1000.00
+Asset,30,410,A43501271706,Conversion of diesel cremation facility to LPG cremation facility,0.00,0.00,40.00
+Asset,30,412,A43601160201,Expenses from Pulse Polio and other government grants,2.83,3.84,10.00
+Asset,90,410,A44001272001,Purchase of cleaning equipment,14.13,8.68,75.00
+Asset,90,410,A44601272408,Construction of the Premal Rameshwar Memorial Dog Shelter / animal shelter and related facilities,62.03,438.49,1000.00
+Asset,90,410,A44601072409,Construction of animal shelter areas,0.00,0.00,5.00
+Asset,90,410,A44701072510,Cattle Pound – Construction / Expansion,0.00,0.00,5.00
+Asset,90,410,A44801272611,Construction of slaughterhouse and meat market,5.74,216.11,400.00
+Asset,50,410,A45202074401,Purchase of new equipment for schools,23.60,40.60,50.00
+Asset,50,410,A45202072702,Expansion and construction of primary schools,62.76,171.13,2100.00
+Asset,50,410,A45302074403,Purchase of new equipment for secondary schools,3.00,0.00,0.00
+Asset,50,410,A45402072804,Expansion and construction of secondary schools,0.00,0.00,400.00
+Asset,50,410,A45600272905,Library building construction and expansion,365.38,275.23,1200.00
+Asset,50,410,A45605172959,Zone No. 1 – Lakshminagar,,,
+Asset,50,410,A45610172909,Zone No. 2 – Dharampeth,,,
+Asset,50,410,A45615172959,Zone No. 3 – Hanumannagar,,,
+Asset,50,410,A45620172909,Zone No. 4 – Dhantoli,,,
+Asset,50,410,A45625172959,Zone No. 5 – Nehru Nagar,,,
+Asset,50,410,A45630172909,Zone No. 6 – Gandhibagh,,,
+Asset,50,410,A45635172959,Zone No. 7 – Satranjipura,,,
+Asset,50,410,A45640172909,Zone No. 8 – Lakadganj,,,
+Asset,50,410,A45645172959,Zone No. 9 – Ashinagar,,,
+Asset,50,410,A45650172909,Zone No. 10 – Mangalwari,,,
+Asset,50,412,A45802073006,Quality Improvement Project,0.00,0.00,15.00
+Asset,50,412,A45802073007,Education and other programmes for Municipal Corporation school students through an agency/NGO,0.00,0.00,5.00
+Asset,50,410,A45802073008,Construction of basic infrastructure facilities in schools,41.66,0.00,100.00
+Asset,50,410,A45805173060,Zone No. 1 – Lakshminagar,,,
+Asset,50,410,A45810173010,Zone No. 2 – Dharampeth,,,
+Asset,50,410,A45815173060,Zone No. 3 – Hanumannagar,,,
+Asset,50,410,A45820173010,Zone No. 4 – Dhantoli,,,
+Asset,50,410,A45825173060,Zone No. 5 – Nehru Nagar,,,
+Asset,50,410,A45830173010,Zone No. 6 – Gandhibagh,,,
+Asset,50,410,A45835173060,Zone No. 7 – Satranjipura,,,
+Asset,50,410,A45840173010,Zone No. 8 – Lakadganj,,,
+Asset,50,410,A45845173060,Zone No. 9 – Ashinagar,,,
+Asset,50,410,A45850173010,Zone No. 10 – Mangalwari,,,
+Asset,50,410,A45802073009,Educational quality development programme,0.00,0.00,200.00
+Asset,100,410,A46001673101,Construction of a theme-based garden,94.74,233.72,1000.00
+Asset,100,410,A46001673102,Nagpur greening and square development,62.84,215.07,400.00
+Asset,100,410,A46001673103,Construction of Vande Mataram Botanical and Science Technology Park (Hindustan Colony) and other gardens,70.56,72.58,100.00
+Asset,100,410,A46001371304,Various development works in the Dikshabhoomi area,0.00,0.00,10.00
+Asset,100,410,A46102273705,Purchase of sports and modern gym equipment,4.58,2.14,200.00
+Asset,100,410,A46101373206,Construction of new sports grounds,0.00,2.47,0.00
+Asset,100,410,A46101373208,Sports development programme,83.88,102.07,1000.00
+Asset,100,410,A46201373309,Sonagaon Lake beautification project,10.17,20.33,1300.00
+Asset,100,410,A46201373310,AMRUT 2 lake rejuvenation project implementation and beautification,0.00,0.00,0.01
+Asset,100,410,A46201373311,Gandhisagar Lake rejuvenation project,0.00,0.00,100.00
+Asset,100,410,A46201673312,Maintenance and repair of lakes in Nagpur city and environmental works,0.00,0.00,450.00
+Asset,100,410,A46701373513,Construction of statues,5.93,7.45,50.00
+Asset,100,410,A46701374614,City beautification works,0.00,0.00,1000.00
+Asset,100,410,A46701373515,Dr. Babasaheb Ambedkar statue at Samvidhan Chowk,2.18,0.00,7.00
+Asset,100,410,A46701373516,Construction of Annabhau Sathe Memorial on South Ambazari Road,0.00,0.00,5.00
+Asset,100,410,A46701374617,Beautification of Balasaheb Deoras Path / Triveni Memorial and Dr. Hedgewar Smriti Mandir premises,5.84,3.85,5.00
+Asset,100,410,A46701373518,Construction of Birsa Munda Memorial,0.00,125.47,1.00
+Asset,100,410,A46701373519,Construction of a memorial for the 150th anniversary of the First War of Independence (1857),0.00,164.51,15.00
+Asset,100,410,A46701673520,( Lezar Light & Sound Show ),10.43,0.00,0.00
+Asset,100,410,A46801673622,Children’s play facilities and green gym in gardens,38.70,41.92,300.00
+Asset,100,410,A46801373623,Construction of an academy,412.91,36.54,1.00
+Asset,100,410,A46802273624,Construction of a recreation/leisure centre for senior citizens at Vasant Narkhedkar Memorial,7.37,97.60,300.00
+Asset,100,410,A46802273625,Construction of a civic centre on reserved land behind Lakadganj water tank,0.00,0.00,100.00
+Asset,100,410,A46201960401,"River and drain projects, including NRCP/NLOP and related land acquisition",22.61,29.20,3000.00
+Asset,100,412,A46301961702,National Clean Air Programme – air-pollution control project grant work,121.31,53.81,0.01
+Asset,100,410,A46301961703,"Water supply, conservation and solid-waste management",0.00,0.00,0.00
+Asset,110,412,A47001272317,Swachh Bharat / Swachh Maharashtra Abhiyan,234.79,0.00,0.01
+Asset,110,412,A47001373801,For works,0.00,0.93,10.00
+Asset,110,410,A47005172361,Zone No. 1 – Lakshminagar,0.00,0.00,0.01
+Asset,110,410,A47010172311,Zone No. 2 – Dharampeth,0.00,0.00,0.01
+Asset,110,410,A47015172361,Zone No. 3 – Hanumannagar,0.00,2.88,0.01
+Asset,110,410,A47020172311,Zone No. 4 – Dhantoli,0.95,0.00,0.01
+Asset,110,410,A47025172361,Zone No. 5 – Nehru Nagar,10.42,0.00,0.01
+Asset,110,410,A47030172311,Zone No. 6 – Gandhibagh,0.00,0.00,0.01
+Asset,110,410,A47035172361,Zone No. 7 – Satranjipura,2.45,0.00,0.01
+Asset,110,410,A47040172311,Zone No. 8 – Lakadganj,0.00,1.90,0.01
+Asset,110,410,A47045172361,Zone No. 9 – Ashinagar,2.98,0.00,0.01
+Asset,110,410,A47050172311,Zone No. 10 – Mangalwari,1.86,0.99,0.01
+Asset,110,412,A47002473803,Women and Child Development,221.79,220.44,950.00
+Asset,110,410,A47101171504,Purchase of machinery for Pachpaoli maternity home and blood-storage / sickle-cell day-care unit,0.00,0.00,20.00
+Asset,110,410,A47201271305,"Under Dr. Babasaheb Ambedkar Shram Safalya Awas Yojana, construction of houses and provision of free flats on ownership basis to eligible heirs of permanent sanitation workers who died during or after service",0.00,0.00,5.00
+Asset,110,410,A47501770706,Installation of electric poles in backward-class settlements,82.24,32.54,300.00
+Asset,110,410,A47500272907,Study Room Construction,0.00,0.00,100.00
+Asset,110,412,A47501374008,Works in Dalit settlements under the Lokshahir Annabhau Sathe Nagari Dalit Vasti Improvement Scheme,208.15,3180.09,9295.00
+Asset,110,412,A47501374009,Improvement works,347.41,640.16,2000.00
+Asset,110,410,A47501370511,Construction of roads,462.72,763.15,0.00
+Asset,110,410,A47502072714,Construction of Primary School Building (Rani Durgavati Nagar),0.00,0.00,342.00
+Asset,110,410,A47502072815,Secondary school building construction,0.00,0.00,10.00
+Asset,110,412,A47702474617,PM SVANidhi Expenses,0.00,0.00,75.00
+Asset,110,412,A47702474618,Inclusive rehabilitation programme for persons engaged in begging,0.00,130.05,200.00
+Asset,110,410,A47601360601,BSUP,25.74,87.21,200.00
+Asset,110,410,A47601361302,Ramai Gharkul housing scheme for SC and Neo-Buddhist beneficiaries,1038.46,2674.13,6363.50
+Asset,110,410,A47601361403,Housing scheme for N.M.C. sanitation workers,0.00,0.00,100.00
+Asset,110,410,A47601361404,Bharat Ratna Dr. Babasaheb Ambedkar Tax - Social,,0.00,2000.00
+Asset,70,410,A48200174201,Computer software / application,501.13,434.64,1000.00
+Asset,80,410,A49000674201,Purchase of machinery/equipment for the Tax Department,0.00,0.00,0.00
+Asset,00,330,A40200450205,Repayment of Pench -3 loan,0.00,0.00,0.00
+Asset,20,410,A42401370826,Construction and expansion of monsoon drains,156.45,27.79,1000.00
+Asset,30,410,A43805171855,Zone No. 1 – Lakshminagar,0.00,0.00,0.01
+Asset,30,410,A43810171805,Zone No. 2 – Dharampeth,0.00,0.00,0.01
+Asset,30,410,A43815171855,Zone No. 3 – Hanumannagar,0.00,0.00,0.01
+Asset,30,410,A43820171805,Zone No. 4 – Dhantoli,0.00,0.00,0.01
+Asset,30,410,A43825171855,Zone No. 5 – Nehru Nagar,0.00,0.00,0.01
+Asset,30,410,A43830171805,Zone No. 6 – Gandhibagh,0.00,0.00,0.01
+Asset,30,410,A43835171855,Zone No. 7 – Satranjipura,0.00,0.00,0.01
+Asset,30,410,A43840171805,Zone No. 8 – Lakadganj,0.45,0.96,0.01
+Asset,30,410,A43845171855,Zone No. 9 – Ashinagar,0.23,0.00,0.01
+Asset,30,410,A43850171805,Zone No. 10 – Mangalwari,0.49,0.00,0.01
+Asset,30,412,A43801971809,Peth Project-4,2639.56,0.00,0.00
+Asset,30,410,A43801971810,Purchase of meters,0.00,0.00,0.00
+Asset,30,410,A43901370812,Construction of drains in Nagpur city,323.45,392.29,2500.00
+Asset,30,410,A43901371913,Construction of new underground drains,270.88,124.31,2000.00
+Asset,30,410,A43905171956,Zone No. 1 – Lakshminagar,13.24,17.41,50.00
+Asset,30,410,A43910171906,Zone No. 2 – Dharampeth,19.55,17.27,50.00
+Asset,30,410,A43915171956,Zone No. 3 – Hanumannagar,19.28,27.33,50.00
+Asset,30,410,A43920171906,Zone No. 4 – Dhantoli,15.11,27.54,50.00
+Asset,30,410,A43925171956,Zone No. 5 – Nehru Nagar,22.78,23.33,50.00
+Asset,30,410,A43930171906,Zone No. 6 – Gandhibagh,11.18,18.97,50.00
+Asset,30,410,A43935171956,Zone No. 7 – Satranjipura,18.21,28.99,50.00
+Asset,30,410,A43940171906,Zone No. 8 – Lakadganj,19.26,20.64,50.00
+Asset,30,410,A43945171956,Zone No. 9 – Ashinagar,19.43,20.46,50.00
+Asset,30,410,A43950171906,Zone No. 10 – Mangalwari,20.04,0.00,50.00
+Asset,30,412,A43902371915,Participation and Management work of MC for the sewage Project  (South Sewerage Zone of Nagpur City),0.00,0.00,15000.00
+Asset,30,412,A43902371918,Preparation of a master plan for sewerage and monsoon drains in Nagpur city (Bhandewadi yard works),0.00,46.27,10.00
+Asset,30,410,A43902371919,Small-scale sewage treatment centres up to 5 MLD capacity,115.70,111.77,160.00
+Asset,30,412,A43902371920,Air-quality improvement project under the 15th Finance Commission grant,1882.94,725.99,7500.00
+Asset,30,410,A43902371922,Sewerage project Expenses in the south sewerage zone of Nagpur city under AMRUT 2,0.00,0.00,18000.00
+Asset,30,412,A43801940701,(BUDGET GRANT ).,5802.36,5009.25,7000.00
+Asset,30,412,A43801940702,(SUPPLEMENTARY BUDGET GRANT),15795.83,79.84,300.00
+Asset,30,410,A43801940703,Additional work of augmentation and and Rehabilitation of feeder and Distribution system,0.00,16408.78,6628.00
+Asset,30,410,A43801940704,Rejuvenation of Lakes,0.00,829.69,50.00
+Asset,30,410,A43801940705,Small-scale sewage treatment centres up to 5 MLD capacity from the 15th Finance Commission grant,,0.00,125.00
+Asset,30,410,A43801940706,Participation/contribution,,0.00,4700.00
+Asset,30,410,A43801940707,Expenses from grants for strengthening Ambazari Dam,,0.00,1100.00
+Asset,90,410,A44201272202,Scientific implementation of solid-waste management and other projects,3909.49,986.26,3600.00
+Asset,90,410,A44201271603,Purchase of containers / wheelbarrows / bell carts,61.82,2.98,100.00
+Asset,90,410,A44501372305,Construction of Sulabh toilets and toilets constructed through the Municipal Corporation,13.08,351.00,2500.00
+Asset,90,410,A44505172357,Zone No. 1 – Lakshminagar,0.00,0.00,0.01
+Asset,90,410,A44510172307,Zone No. 2 – Dharampeth,0.00,0.00,0.01
+Asset,90,410,A44515172357,Zone No. 3 – Hanumannagar,0.00,0.00,0.01
+Asset,90,410,A44520172307,Zone No. 4 – Dhantoli,0.00,0.00,0.01
+Asset,90,410,A44525172357,Zone No. 5 – Nehru Nagar,0.00,0.00,0.01
+Asset,90,410,A44530172307,Zone No. 6 – Gandhibagh,0.00,0.00,0.01
+Asset,90,410,A44535172357,Zone No. 7 – Satranjipura,0.00,1.98,0.01
+Asset,90,410,A44540172307,Zone No. 8 – Lakadganj,0.00,0.00,0.01
+Asset,90,410,A44545172357,Zone No. 9 – Ashinagar,0.00,0.00,0.01
+Asset,90,410,A44550172307,Zone No. 10 – Mangalwari,0.88,0.00,0.01
+Asset,90,410,A44505172358,Zone No. 1 – Lakshminagar,0.00,0.00,0.01
+Asset,90,410,A44510172308,Zone No. 2 – Dharampeth,0.00,0.00,0.01
+Asset,90,410,A44515172358,Zone No. 3 – Hanumannagar,0.48,0.00,0.01
+Asset,90,410,A44520172308,Zone No. 4 – Dhantoli,0.00,0.00,0.01
+Asset,90,410,A44525172358,Zone No. 5 – Nehru Nagar,0.00,0.00,0.01
+Asset,90,410,A44530172308,Zone No. 6 – Gandhibagh,0.00,0.00,0.01
+Asset,90,410,A44535172358,Zone No. 7 – Satranjipura,0.00,0.00,0.01
+Asset,90,410,A44540172308,Zone No. 8 – Lakadganj,0.00,0.00,0.01
+Asset,90,410,A44545172358,Zone No. 9 – Ashinagar,0.00,0.00,0.01
+Asset,90,410,A44550172308,Zone No. 10 – Mangalwari,0.44,0.00,0.01
+Asset,110,410,A47501371912,Construction of underground drains,190.39,559.19,1000.00
+Asset,110,410,A47501272313,Construction of standard/public toilets,27.27,88.29,200.00
+Asset,00,460,A60200480101,Refund of security deposit,0.00,847.29,1000.00
+Asset,00,460,A60200480502,Refund of other deposits,2217.95,122.59,300.00
+Asset,00,460,A60200480903,Refund of investment deposits,0.00,0.00,1.00
+Asset,10,460,A61101880101,Refund of deposit,8.64,12.31,50.00
+Asset,10,460,A60200440705,Refund of amounts due to the Government for the Metro Rail project,,,3400.00
+Asset,20,460,A62001380501,Expenses for deposit-related works,0.00,35.78,0.01
+Asset,20,460,A62800780502,"Miscellaneous Expenses (refund of service-tax charges), etc.",506.05,238.11,400.00
+Asset,20,460,A62800780503,Advance refund,143.82,0.00,20.00
+Asset,20,460,A62801380504,Construction of shops against deposits/advances,0.00,0.00,0.01
+Asset,80,460,A69000680501,Other refund amount,80.27,97.33,270.00
+Asset,80,460,A69600481202,Amount to be refunded to the State Government towards education cess,2697.96,2909.57,1000.00
+Asset,80,460,A69600481303,Employment Guarantee Cess – refund,1022.60,271.65,400.00
+Asset,80,460,A69000681408,Government tax on high-rise residential buildings – refund,0.00,514.19,0.01
+Asset,80,460,A69300481104,Labour Welfare Cess – refund,545.64,0.00,800.00
+Asset,80,460,A69600480206,Provident Fund interest refund,2000.00,2500.00,100.00
+Asset,80,460,A69600480207,Refund under the contributory defined-benefit retirement pension scheme (DCPS),0.00,1000.00,2000.00
+Asset,80,460,A69600480205,Refund of amounts arising from income-tax deductions from contractors,2122.38,0.00,2000.00
+Asset,80,460,A69600480209,Goods and Services Tax (TDS) Refund - 1. CGST (TDS),921.67,0.00,900.00
+Asset,80,460,A69600480210,SGST (TDS),963.32,0.00,900.00
+Asset,80,460,A69600480211,IGST (TDS) – refund,0.17,0.00,5.00
+Asset,80,460,A69700481006,Work Contract Tax (WCT) – refund,0.00,0.00,2.00
+Asset,30,460,A63801980501,Deposit works,0.00,0.00,10.00
+Asset,00,460,A80200490701,Advance for other Expenses,1113.58,129.45,1000.00
+Asset,20,460,A82001490601,Purchase of materials and bitumen,208.86,605.95,650.00
+Asset,70,460,A88101390702,Purchase of materials for the Public Works Department,26.92,0.00,0.00
+Asset,70,460,A88700490103,Festival advance,931.75,176.50,900.00
+Asset,80,460,A89100590801,L.B.T. / Octroi – refund,146.40,120.94,150.00
+Asset,30,460,A83801990701,Purchase of materials for the Water Supply Department,0.00,0.00,0.01
