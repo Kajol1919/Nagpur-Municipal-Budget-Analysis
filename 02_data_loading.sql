@@ -1,10 +1,6 @@
--- Run this script with psql from the project root folder.
--- Example:
---   psql -h localhost -U postgres -d nagpur_budget -v ON_ERROR_STOP=1 -f sql/02_data_loading.sql
---
--- Paths below are relative to the current working directory (the project root).
--- This uses psql's copy, so it reads files from the computer running psql.
--- It does not depend on the author's personal Windows path.
+-- Load CSV data into staging tables.
+-- Clean and insert valid data into final tables.
+-- Check the total number of loaded records.
 
 TRUNCATE TABLE stg_dim_nagpur, stg_department_nagpur;
 TRUNCATE TABLE dim_nagpur_budget, dim_nagpur_department RESTART IDENTITY;
