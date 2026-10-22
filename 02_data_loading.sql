@@ -3,7 +3,7 @@
 --   psql -h localhost -U postgres -d nagpur_budget -v ON_ERROR_STOP=1 -f sql/02_data_loading.sql
 --
 -- Paths below are relative to the current working directory (the project root).
--- This uses psql's \copy, so it reads files from the computer running psql.
+-- This uses psql's copy, so it reads files from the computer running psql.
 -- It does not depend on the author's personal Windows path.
 
 TRUNCATE TABLE stg_dim_nagpur, stg_department_nagpur;
